@@ -18,7 +18,13 @@
     },
     "title_long_clean": {
       "BO": "དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་ཡི་གེ་གཅིག་མ་ཞེས་བྱ་བ།"
-    }
+    },
+    "translation_alignments": [
+      {
+        "source": "ID54BCC54/layers/9BEF/Tibetan_Segment-3CA2.json",
+        "target": "I640F26AA/layers/177A/Chinese_Segment-74B8.json"
+      }
+    ]
   },
   "bases": [
     {
